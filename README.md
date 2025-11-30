@@ -49,3 +49,4 @@ To test the result in your local environment, build for production and launch se
 yarn build
 yarn preview
 ```
+Refactor swap component
