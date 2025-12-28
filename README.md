@@ -50,3 +50,4 @@ yarn build
 yarn preview
 ```
 Refactor swap component
+Add price feed integration
