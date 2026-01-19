@@ -51,3 +51,4 @@ yarn preview
 ```
 Refactor swap component
 Add price feed integration
+Fix slippage calculation
