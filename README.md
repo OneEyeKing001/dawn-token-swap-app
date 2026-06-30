@@ -56,3 +56,4 @@ Add token pair selection UI
 Implement swap history tracking
 Add loading states and spinners
 Fix gas estimation logic
+Update Netlify build settings
